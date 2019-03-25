@@ -1,0 +1,37 @@
+body {
+  background: red;
+}
+
+h2 {
+  text-align: center;
+  Color: blue;
+}
+
+.verde{
+  color: green;
+}
+
+.centrado {
+  text-align: center;
+}
+
+#subtitulo {
+  text-align: right;
+  color: white;
+
+}
+
+
+margin, entre la pagina y mi caja
+
+border, es el borde de mi caja
+existen de distintas formas
+tamaños y estilos
+
+padding diferencia entre el contenido y la caja
+
+area de contenido( caja)
+
+
+width= ancho
+height = alto
